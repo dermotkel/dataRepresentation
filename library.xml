@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+
+	<catalogue>
+	
+		<technical_cat>
+		
+			<book isbn-10="1593275994">
+			
+				<title>Automate the Boring Stuff with Python: Practical Programming for Total Beginners</title>
+			
+				<author>Al Sweigart</author>
+			
+			</book>
+
+			<book isbn-10="1593276036">
+			
+				<title>Python Crash Course: A Hands-On, Project-Based Introduction to Programming</title>
+			
+				<author>Eric Matthes</author>
+			
+			</book>
+		
+		</technical_cat>
+		
+		<cookery_cat>
+		
+			<book isbn-10="1473621038">
+			
+				<title>Fresh: Simple, delicious recipes to make you feel energised</title>
+			
+				<author>Donal Skeehan</author>
+			
+			</book>
+
+			<book isbn-10="0007462433">
+			
+				<title>Coast: Recipes from Ireland's Wild Atlantic Way</title>
+			
+				<author>Rachel Allen</author>
+			
+			</book>
+		
+		</cookery_cat>
+
+	</catalogue>
+	
+</library>
