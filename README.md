@@ -9,4 +9,6 @@ Repository for GMIT Data Representation Module 2019
 
 - Lab03-Webscrapping
 
-- Lab 4 JSON and AJAX
+- Lab04 JSON and AJAX
+
+- Lab05 CURL and REST
